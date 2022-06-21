@@ -30,4 +30,8 @@ Aplikasi yang digunakan untuk dapat mengedit data mahasiswa dan dosen. dan juga 
  
 ## tampilan yanga ada didalam aplikasi 
 
-
+-  login 
+-  menampilkan data dengan template
+-  menampulkan data mahasiswa dan dosen
+-  menampilkan data produk dengan bentuk template
+-   
